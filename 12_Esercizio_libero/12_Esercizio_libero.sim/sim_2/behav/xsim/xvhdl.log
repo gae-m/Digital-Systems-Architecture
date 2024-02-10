@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/biagi/Desktop/12_Esercizio_libero/12_Esercizio_libero.srcs/sources_1/imports/src/button_debouncer.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'button_debouncer'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/biagi/Desktop/12_Esercizio_libero/12_Esercizio_libero.srcs/sim_2/new/btn_debouncer_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'btn_debouncer_tb'

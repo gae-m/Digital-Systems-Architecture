@@ -1,0 +1,20 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sim_3/new/handshake_sys_bdt_tb.vhd,1705418941,vhdl,,,,handshake_sys_bdt_tb,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/imports/components/counter.vhd,1705311359,vhdl,C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/nodoB_datapath.vhd,,,counter,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/imports/components/memory.vhd,1705417739,vhdl,C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/nodoB_datapath.vhd,,,memory,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/imports/components/register_pp.vhd,1696543016,vhdl,C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/nodoB_datapath.vhd,,,register_pp,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/imports/components/rom.vhd,1705400528,vhdl,C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/nodoB_datapath.vhd,,,rom,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/adder.vhd,1696784700,vhdl,C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/nodoB_datapath.vhd,,,adder,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/base_dei_tempi.vhd,1696943294,vhdl,C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/handshake_sys_bdt.vhd,,,base_dei_tempi,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/handshake_sys_bdt.vhd,1705418822,vhdl,C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sim_3/new/handshake_sys_bdt_tb.vhd,,,handshake_sys_bdt,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/handshake_system.vhd,1705320157,vhdl,C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/handshake_sys_bdt.vhd,,,handshake_system,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/mux_2_1.vhd,1696783354,vhdl,C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/nodoB_datapath.vhd,,,mux_2_1,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/nodoA.vhd,1705320398,vhdl,,,,nodoa,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/nodoA_CU.vhd,1705314994,vhdl,,,,nodoa_cu,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/nodoA_datapath.vhd,1705394268,vhdl,,,,nodoa_datapath,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/nodoB.vhd,1705415363,vhdl,,,,nodob,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/nodoB_CU.vhd,1705415188,vhdl,C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/nodoB.vhd,,,nodob_cu,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/nodoB_datapath.vhd,1705415375,vhdl,C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/nodoB.vhd,,,nodob_datapath,,,,,,,,

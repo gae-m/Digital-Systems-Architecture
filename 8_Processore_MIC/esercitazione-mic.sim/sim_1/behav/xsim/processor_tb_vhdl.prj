@@ -1,0 +1,13 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../esercitazione-mic.srcs/sources_1/imports/vhdl-mic1/common_defs.vhd" \
+"../../../../esercitazione-mic.srcs/sources_1/imports/vhdl-mic1/alu.vhd" \
+"../../../../esercitazione-mic.srcs/sources_1/imports/vhdl-mic1/control_store.vhd" \
+"../../../../esercitazione-mic.srcs/sources_1/imports/vhdl-mic1/control_unit.vhd" \
+"../../../../esercitazione-mic.srcs/sources_1/imports/vhdl-mic1/datapath.vhd" \
+"../../../../esercitazione-mic.srcs/sources_1/imports/vhdl-mic1/dp_ar_ram.vhd" \
+"../../../../esercitazione-mic.srcs/sources_1/imports/vhdl-mic1/processor.vhd" \
+"../../../../esercitazione-mic.srcs/sim_1/imports/test/processor_tb.vhd" \
+
+# Do not sort compile order
+nosort

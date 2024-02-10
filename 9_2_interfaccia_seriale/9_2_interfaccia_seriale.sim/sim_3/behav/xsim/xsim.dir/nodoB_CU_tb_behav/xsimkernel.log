@@ -1,0 +1,7 @@
+Running: xsim.dir/nodoB_CU_tb_behav/xsimk.exe -simmode gui -wdb nodoB_CU_tb_behav.wdb -simrunnum 0 -socket 55271
+Design successfully loaded
+Design Loading Memory Usage: 9184 KB (Peak: 9184 KB)
+Design Loading CPU Usage: 62 ms
+Simulation completed
+Simulation Memory Usage: 9832 KB (Peak: 9832 KB)
+Simulation CPU Usage: 62 ms

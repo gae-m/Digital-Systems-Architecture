@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Oct 10 20:13:35 2023
+# Process ID: 5096
+# Current directory: C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.runs/synth_1
+# Command line: vivado.exe -log handshake_system_on_board.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source handshake_system_on_board.tcl
+# Log file: C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.runs/synth_1/handshake_system_on_board.vds
+# Journal file: C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source handshake_system_on_board.tcl -notrace

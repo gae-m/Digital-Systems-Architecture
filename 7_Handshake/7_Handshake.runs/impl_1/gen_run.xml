@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1696961677">
+  <File Type="PA-TCL" Name="handshake_system_on_board.tcl"/>
+  <File Type="BITSTR-BMM" Name="handshake_system_on_board_bd.bmm"/>
+  <File Type="REPORTS-TCL" Name="handshake_system_on_board_reports.tcl"/>
+  <File Type="OPT-DCP" Name="handshake_system_on_board_opt.dcp"/>
+  <File Type="OPT-HWDEF" Name="handshake_system_on_board.hwdef"/>
+  <File Type="PWROPT-DCP" Name="handshake_system_on_board_pwropt.dcp"/>
+  <File Type="BG-BGN" Name="handshake_system_on_board.bgn"/>
+  <File Type="PLACE-DCP" Name="handshake_system_on_board_placed.dcp"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="handshake_system_on_board_incremental_reuse_pre_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="handshake_system_on_board_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="handshake_system_on_board.bin"/>
+  <File Type="PHYSOPT-DCP" Name="handshake_system_on_board_physopt.dcp"/>
+  <File Type="BITSTR-MSK" Name="handshake_system_on_board.msk"/>
+  <File Type="ROUTE-ERROR-DCP" Name="handshake_system_on_board_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="handshake_system_on_board_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="handshake_system_on_board_routed_bb.dcp"/>
+  <File Type="BITSTR-LTX" Name="handshake_system_on_board.ltx"/>
+  <File Type="BITSTR-MMI" Name="handshake_system_on_board.mmi"/>
+  <File Type="BITSTR-SYSDEF" Name="handshake_system_on_board.sysdef"/>
+  <File Type="ROUTE-TIMING-PB" Name="handshake_system_on_board_timing_summary_routed.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="handshake_system_on_board_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="handshake_system_on_board_postroute_physopt_bb.dcp"/>
+  <File Type="BG-BIT" Name="handshake_system_on_board.bit"/>
+  <File Type="BITSTR-RBT" Name="handshake_system_on_board.rbt"/>
+  <File Type="BITSTR-NKY" Name="handshake_system_on_board.nky"/>
+  <File Type="BG-DRC" Name="handshake_system_on_board.drc"/>
+  <File Type="RDI-RDI" Name="handshake_system_on_board.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/adder.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/display_7seg/anodes_manager.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../OneDrive - Università di Napoli Federico II/unina/elaborato-asdi-shared/components/display_7seg/anodes_manager.vhd"/>
+        <Attr Name="ImportTime" Val="1696500731"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/base_dei_tempi.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/components/button_debouncer.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../OneDrive - Università di Napoli Federico II/unina/elaborato-asdi-shared/components/button_debouncer.vhd"/>
+        <Attr Name="ImportTime" Val="1696538189"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/display_7seg/cathodes_manager.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../OneDrive - Università di Napoli Federico II/unina/elaborato-asdi-shared/components/display_7seg/cathodes_manager.vhd"/>
+        <Attr Name="ImportTime" Val="1696434015"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/display_7seg/clock_filter.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../OneDrive - Università di Napoli Federico II/unina/elaborato-asdi-shared/components/display_7seg/clock_filter.vhd"/>
+        <Attr Name="ImportTime" Val="1696501879"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/components/counter.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../OneDrive - Università di Napoli Federico II/unina/elaborato-asdi-shared/components/counter.vhd"/>
+        <Attr Name="ImportTime" Val="1696416186"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/decoder.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/display_7seg/digits_splitter.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../OneDrive - Università di Napoli Federico II/unina/elaborato-asdi-shared/components/display_7seg/digits_splitter.vhd"/>
+        <Attr Name="ImportTime" Val="1696504995"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/display_7seg/display_7seg_manager.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../OneDrive - Università di Napoli Federico II/unina/elaborato-asdi-shared/components/display_7seg/display_7seg_manager.vhd"/>
+        <Attr Name="ImportTime" Val="1696517544"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/handshake_system.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/components/memory.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../OneDrive - Università di Napoli Federico II/unina/elaborato-asdi-shared/components/memory.vhd"/>
+        <Attr Name="ImportTime" Val="1696762210"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/mux_2_1.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/nodoA.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/nodoA_CU.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/nodoA_datapath.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/components/register_pp.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../OneDrive - Università di Napoli Federico II/unina/elaborato-asdi-shared/components/register_pp.vhd"/>
+        <Attr Name="ImportTime" Val="1696543016"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/nodoB_datapath.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/nodoB_CU.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/nodoB.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/components/rom.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../OneDrive - Università di Napoli Federico II/unina/elaborato-asdi-shared/components/rom.vhd"/>
+        <Attr Name="ImportTime" Val="1696760100"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/handshake_system_on_board.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="handshake_system_on_board"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/imports/vivado_projects/Nexys-A7-100T-Master.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Nexys-A7-100T-Master.xdc"/>
+        <Attr Name="ImportTime" Val="1628606177"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

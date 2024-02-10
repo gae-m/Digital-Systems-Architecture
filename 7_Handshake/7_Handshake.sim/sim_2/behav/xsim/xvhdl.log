@@ -1,0 +1,8 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/imports/components/memory.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'memory'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/nodoB_datapath.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'nodoB_datapath'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/nodoB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'nodoB'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sim_2/imports/new/nodoB_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'nodoB_tb'

@@ -1,0 +1,1 @@
+-wto "331488a85d0b4dc69d3fb48491d2e55b" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "if_icmpeq_processor_tb_behav" "xil_defaultlib.if_icmpeq_processor_tb" -log "elaborate.log" 

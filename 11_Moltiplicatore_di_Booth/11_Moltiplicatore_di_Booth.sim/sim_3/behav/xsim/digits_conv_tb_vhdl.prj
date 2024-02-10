@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../11_Moltiplicatore_di_Booth.srcs/sources_1/new/digits_converter.vhd" \
+"../../../../11_Moltiplicatore_di_Booth.srcs/sim_3/new/digits_conv_tb.vhd" \
+
+# Do not sort compile order
+nosort

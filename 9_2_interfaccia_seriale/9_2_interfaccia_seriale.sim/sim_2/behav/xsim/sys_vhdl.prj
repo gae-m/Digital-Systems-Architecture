@@ -1,0 +1,19 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../9_interfaccia_seriale.srcs/sources_1/imports/9-Interfaccia_seriale/RS232RefComp2.vhd" \
+"../../../../9_interfaccia_seriale.srcs/sources_1/imports/Donato/OneDrive - Università di Napoli Federico II/unina/elaborato-asdi-shared/components/counter.vhd" \
+"../../../../9_interfaccia_seriale.srcs/sources_1/imports/components/memory.vhd" \
+"../../../../9_interfaccia_seriale.srcs/sources_1/imports/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/mux_2_1.vhd" \
+"../../../../9_interfaccia_seriale.srcs/sources_1/new/nodoA_util.vhd" \
+"../../../../9_interfaccia_seriale.srcs/sources_1/imports/Donato/OneDrive - Università di Napoli Federico II/unina/elaborato-asdi-shared/components/rom.vhd" \
+"../../../../9_interfaccia_seriale.srcs/sources_1/new/nodoA_ou.vhd" \
+"../../../../9_interfaccia_seriale.srcs/sources_1/new/nodoA_cu.vhd" \
+"../../../../9_interfaccia_seriale.srcs/sources_1/new/nodoA.vhd" \
+"../../../../9_interfaccia_seriale.srcs/sources_1/new/nodoB_util.vhd" \
+"../../../../9_interfaccia_seriale.srcs/sources_1/new/nodoB_ou.vhd" \
+"../../../../9_interfaccia_seriale.srcs/sources_1/new/nodoB_cu.vhd" \
+"../../../../9_interfaccia_seriale.srcs/sources_1/new/nodoB.vhd" \
+"../../../../9_interfaccia_seriale.srcs/sources_1/new/sys.vhd" \
+
+# Do not sort compile order
+nosort

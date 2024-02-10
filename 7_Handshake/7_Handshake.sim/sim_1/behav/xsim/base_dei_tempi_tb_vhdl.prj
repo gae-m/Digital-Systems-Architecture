@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../7_Handshake.srcs/sources_1/new/base_dei_tempi.vhd" \
+"../../../../7_Handshake.srcs/sources_1/imports/components/counter.vhd" \
+"../../../../7_Handshake.srcs/sim_1/new/base_dei_tempi_tb.vhd" \
+
+# Do not sort compile order
+nosort

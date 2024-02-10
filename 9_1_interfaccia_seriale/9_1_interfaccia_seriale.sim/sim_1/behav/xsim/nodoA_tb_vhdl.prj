@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../9_1_interfaccia_seriale.srcs/sources_1/imports/vivado_projects/RS232RefComp2.vhd" \
+"../../../../9_1_interfaccia_seriale.srcs/sources_1/new/nodoA.vhd" \
+"../../../../9_1_interfaccia_seriale.srcs/sim_1/new/nodoA_tb.vhd" \
+
+# Do not sort compile order
+nosort

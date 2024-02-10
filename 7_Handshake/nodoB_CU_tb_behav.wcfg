@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="nodoB_CU_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="nodoB_CU_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="178000001fs"></ZoomEndTime>
+      <Cursor1Time time="185000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="93"></NameColumnWidth>
+      <ValueColumnWidth column_width="64"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="12" />
+   <wvobject fp_name="/nodoB_CU_tb/ready" type="logic">
+      <obj_property name="ElementShortName">ready</obj_property>
+      <obj_property name="ObjectShortName">ready</obj_property>
+   </wvobject>
+   <wvobject fp_name="/nodoB_CU_tb/mode" type="logic">
+      <obj_property name="ElementShortName">mode</obj_property>
+      <obj_property name="ObjectShortName">mode</obj_property>
+   </wvobject>
+   <wvobject fp_name="/nodoB_CU_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/nodoB_CU_tb/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/nodoB_CU_tb/ack" type="logic">
+      <obj_property name="ElementShortName">ack</obj_property>
+      <obj_property name="ObjectShortName">ack</obj_property>
+   </wvobject>
+   <wvobject fp_name="/nodoB_CU_tb/en_mem" type="logic">
+      <obj_property name="ElementShortName">en_mem</obj_property>
+      <obj_property name="ObjectShortName">en_mem</obj_property>
+   </wvobject>
+   <wvobject fp_name="/nodoB_CU_tb/en_reg" type="logic">
+      <obj_property name="ElementShortName">en_reg</obj_property>
+      <obj_property name="ObjectShortName">en_reg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/nodoB_CU_tb/strobe" type="logic">
+      <obj_property name="ElementShortName">strobe</obj_property>
+      <obj_property name="ObjectShortName">strobe</obj_property>
+   </wvobject>
+   <wvobject fp_name="/nodoB_CU_tb/rst_dp" type="logic">
+      <obj_property name="ElementShortName">rst_dp</obj_property>
+      <obj_property name="ObjectShortName">rst_dp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/nodoB_CU_tb/inc" type="logic">
+      <obj_property name="ElementShortName">inc</obj_property>
+      <obj_property name="ObjectShortName">inc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/nodoB_CU_tb/dut/state" type="other">
+      <obj_property name="ElementShortName">state</obj_property>
+      <obj_property name="ObjectShortName">state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/nodoB_CU_tb/ctrl_word" type="array">
+      <obj_property name="ElementShortName">ctrl_word[5:0]</obj_property>
+      <obj_property name="ObjectShortName">ctrl_word[5:0]</obj_property>
+   </wvobject>
+</wave_config>

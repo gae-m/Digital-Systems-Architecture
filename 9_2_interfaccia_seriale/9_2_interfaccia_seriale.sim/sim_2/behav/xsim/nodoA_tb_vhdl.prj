@@ -1,0 +1,13 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../9_2_interfaccia_seriale.srcs/sources_1/imports/9-Interfaccia_seriale/RS232RefComp2.vhd" \
+"../../../../9_2_interfaccia_seriale.srcs/sources_1/imports/Donato/OneDrive - Università di Napoli Federico II/unina/elaborato-asdi-shared/components/counter.vhd" \
+"../../../../9_2_interfaccia_seriale.srcs/sources_1/new/nodoA_util.vhd" \
+"../../../../9_2_interfaccia_seriale.srcs/sources_1/imports/Donato/OneDrive - Università di Napoli Federico II/unina/elaborato-asdi-shared/components/rom.vhd" \
+"../../../../9_2_interfaccia_seriale.srcs/sources_1/new/nodoA_ou.vhd" \
+"../../../../9_2_interfaccia_seriale.srcs/sources_1/new/nodoA_cu.vhd" \
+"../../../../9_2_interfaccia_seriale.srcs/sources_1/new/nodoA.vhd" \
+"../../../../9_2_interfaccia_seriale.srcs/sim_2/new/nodoA_tb.vhd" \
+
+# Do not sort compile order
+nosort

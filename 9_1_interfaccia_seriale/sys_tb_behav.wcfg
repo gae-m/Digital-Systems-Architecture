@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="sys_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="sys_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="442500001fs"></ZoomEndTime>
+      <Cursor1Time time="344500000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="104"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/sys_tb/data_in" type="array">
+      <obj_property name="ElementShortName">data_in[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data_in[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sys_tb/data_out" type="array">
+      <obj_property name="ElementShortName">data_out[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data_out[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sys_tb/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sys_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sys_tb/write" type="logic">
+      <obj_property name="ElementShortName">write</obj_property>
+      <obj_property name="ObjectShortName">write</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sys_tb/dut/data_line" type="logic">
+      <obj_property name="ElementShortName">data_line</obj_property>
+      <obj_property name="ObjectShortName">data_line</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sys_tb/dut/nodoB/rda" type="logic">
+      <obj_property name="ElementShortName">rda</obj_property>
+      <obj_property name="ObjectShortName">rda</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sys_tb/dut/nodoB/uart_B/PE" type="logic">
+      <obj_property name="ElementShortName">PE</obj_property>
+      <obj_property name="ObjectShortName">PE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sys_tb/dut/nodoB/uart_B/FE" type="logic">
+      <obj_property name="ElementShortName">FE</obj_property>
+      <obj_property name="ObjectShortName">FE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sys_tb/dut/nodoB/uart_B/OE" type="logic">
+      <obj_property name="ElementShortName">OE</obj_property>
+      <obj_property name="ObjectShortName">OE</obj_property>
+   </wvobject>
+</wave_config>

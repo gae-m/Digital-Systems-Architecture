@@ -1,0 +1,13 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sim_1/new/base_dei_tempi_tb.vhd,1696847798,vhdl,,,,base_dei_tempi_tb,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sim_1/new/nodoA_CU_tb.vhd,1705337991,vhdl,,,,nodoa_cu_tb,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sim_1/new/nodoA_tb.vhd,1705400523,vhdl,,,,nodoa_tb,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/imports/components/counter.vhd,1705311359,vhdl,,,,counter,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/imports/components/rom.vhd,1705400528,vhdl,,,,rom,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/base_dei_tempi.vhd,1696943294,vhdl,C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sim_1/new/base_dei_tempi_tb.vhd,,,base_dei_tempi,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/nodoA.vhd,1705320398,vhdl,,,,nodoa,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/nodoA_CU.vhd,1707041303,vhdl,,,,nodoa_cu,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/nodoA_datapath.vhd,1705394268,vhdl,,,,nodoa_datapath,,,,,,,,

@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../12_Esercizio_libero.srcs/sources_1/imports/components/counter.vhd" \
+"../../../../12_Esercizio_libero.srcs/sources_1/imports/src/nodoA.vhd" \
+"../../../../12_Esercizio_libero.srcs/sources_1/imports/src/nodoA_CU.vhd" \
+"../../../../12_Esercizio_libero.srcs/sources_1/imports/components/rom.vhd" \
+"../../../../12_Esercizio_libero.srcs/sources_1/imports/src/nodoA_datapath.vhd" \
+"../../../../12_Esercizio_libero.srcs/sim_2/new/nodoA_tb.vhd" \
+
+# Do not sort compile order
+nosort

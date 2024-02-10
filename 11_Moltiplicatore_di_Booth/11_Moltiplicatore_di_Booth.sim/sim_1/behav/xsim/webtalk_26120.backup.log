@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat Jan 27 15:48:17 2024
+# Process ID: 26120
+# Current directory: C:/Users/Donato/Desktop/vivado_projects/11_Moltiplicatore_di_Booth/11_Moltiplicatore_di_Booth.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/Donato/Desktop/vivado_projects/11_Moltiplicatore_di_Booth/11_Moltiplicatore_di_Booth.sim/sim_1/behav/xsim/xsim.dir/control_unit_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/Donato/Desktop/vivado_projects/11_Moltiplicatore_di_Booth/11_Moltiplicatore_di_Booth.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/Donato/Desktop/vivado_projects/11_Moltiplicatore_di_Booth/11_Moltiplicatore_di_Booth.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Donato/Desktop/vivado_projects/11_Moltiplicatore_di_Booth/11_Moltiplicatore_di_Booth.sim/sim_1/behav/xsim/xsim.dir/control_unit_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-206] Exiting Webtalk at Sat Jan 27 15:48:17 2024...

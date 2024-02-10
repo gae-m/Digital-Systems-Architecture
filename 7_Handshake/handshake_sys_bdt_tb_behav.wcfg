@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="handshake_sys_bdt_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="handshake_sys_bdt_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="1400333333fs"></ZoomStartTime>
+      <ZoomEndTime time="1582133334fs"></ZoomEndTime>
+      <Cursor1Time time="1421133000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="93"></NameColumnWidth>
+      <ValueColumnWidth column_width="71"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="17" />
+   <wvobject fp_name="/handshake_sys_bdt_tb/rst_sys" type="logic">
+      <obj_property name="ElementShortName">rst_sys</obj_property>
+      <obj_property name="ObjectShortName">rst_sys</obj_property>
+   </wvobject>
+   <wvobject fp_name="/handshake_sys_bdt_tb/rst_bdt" type="logic">
+      <obj_property name="ElementShortName">rst_bdt</obj_property>
+      <obj_property name="ObjectShortName">rst_bdt</obj_property>
+   </wvobject>
+   <wvobject fp_name="/handshake_sys_bdt_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/handshake_sys_bdt_tb/dut/clock_A" type="logic">
+      <obj_property name="ElementShortName">clock_A</obj_property>
+      <obj_property name="ObjectShortName">clock_A</obj_property>
+   </wvobject>
+   <wvobject fp_name="/handshake_sys_bdt_tb/dut/clock_B" type="logic">
+      <obj_property name="ElementShortName">clock_B</obj_property>
+      <obj_property name="ObjectShortName">clock_B</obj_property>
+   </wvobject>
+   <wvobject fp_name="/handshake_sys_bdt_tb/start" type="logic">
+      <obj_property name="ElementShortName">start</obj_property>
+      <obj_property name="ObjectShortName">start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/handshake_sys_bdt_tb/addr" type="array">
+      <obj_property name="ElementShortName">addr[2:0]</obj_property>
+      <obj_property name="ObjectShortName">addr[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/handshake_sys_bdt_tb/mode" type="logic">
+      <obj_property name="ElementShortName">mode</obj_property>
+      <obj_property name="ObjectShortName">mode</obj_property>
+   </wvobject>
+   <wvobject fp_name="/handshake_sys_bdt_tb/dut/hs_sys/ready" type="logic">
+      <obj_property name="ElementShortName">ready</obj_property>
+      <obj_property name="ObjectShortName">ready</obj_property>
+   </wvobject>
+   <wvobject fp_name="/handshake_sys_bdt_tb/dut/hs_sys/data" type="array">
+      <obj_property name="ElementShortName">data[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/handshake_sys_bdt_tb/dut/hs_sys/ack" type="logic">
+      <obj_property name="ElementShortName">ack</obj_property>
+      <obj_property name="ObjectShortName">ack</obj_property>
+   </wvobject>
+   <wvobject fp_name="/handshake_sys_bdt_tb/data_out" type="array">
+      <obj_property name="ElementShortName">data_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data_out[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/handshake_sys_bdt_tb/dut/hs_sys/A/cu/state" type="other">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">state</obj_property>
+      <obj_property name="ObjectShortName">state</obj_property>
+      <obj_property name="label">stateA</obj_property>
+   </wvobject>
+   <wvobject fp_name="/handshake_sys_bdt_tb/dut/hs_sys/B/cu/state" type="other">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">state</obj_property>
+      <obj_property name="ObjectShortName">state</obj_property>
+      <obj_property name="label">stateB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/handshake_sys_bdt_tb/clk_B_factor" type="other">
+      <obj_property name="ElementShortName">clk_B_factor</obj_property>
+      <obj_property name="ObjectShortName">clk_B_factor</obj_property>
+   </wvobject>
+   <wvobject fp_name="/handshake_sys_bdt_tb/clk_B_delay" type="other">
+      <obj_property name="ElementShortName">clk_B_delay</obj_property>
+      <obj_property name="ObjectShortName">clk_B_delay</obj_property>
+   </wvobject>
+   <wvobject fp_name="/handshake_sys_bdt_tb/rom" type="array">
+      <obj_property name="ElementShortName">rom[0:7][31:0]</obj_property>
+      <obj_property name="ObjectShortName">rom[0:7][31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+</wave_config>

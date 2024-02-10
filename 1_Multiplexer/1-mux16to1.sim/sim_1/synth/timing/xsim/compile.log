@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Donato/Desktop/vivado_projects/1-mux16to1/1-mux16to1.sim/sim_1/synth/timing/xsim/rete_on_board_tb_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rete_on_board
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Donato/Desktop/vivado_projects/1-mux16to1/1-mux16to1.srcs/sim_1/new/rete_on_board_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'rete_on_board_tb'

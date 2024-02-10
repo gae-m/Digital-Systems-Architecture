@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Jan 30 11:31:18 2024
+# Process ID: 13768
+# Current directory: C:/Users/Donato/Desktop/vivado_projects/11_Moltiplicatore_di_Booth/11_Moltiplicatore_di_Booth.runs/synth_1
+# Command line: vivado.exe -log sys_on_board.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source sys_on_board.tcl
+# Log file: C:/Users/Donato/Desktop/vivado_projects/11_Moltiplicatore_di_Booth/11_Moltiplicatore_di_Booth.runs/synth_1/sys_on_board.vds
+# Journal file: C:/Users/Donato/Desktop/vivado_projects/11_Moltiplicatore_di_Booth/11_Moltiplicatore_di_Booth.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source sys_on_board.tcl -notrace

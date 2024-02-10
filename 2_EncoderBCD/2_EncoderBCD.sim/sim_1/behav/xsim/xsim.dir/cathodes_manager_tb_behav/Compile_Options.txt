@@ -1,0 +1,1 @@
+-wto "8e9e798c66a945bdb354a97acaed07c6" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "cathodes_manager_tb_behav" "xil_defaultlib.cathodes_manager_tb" -log "elaborate.log" 

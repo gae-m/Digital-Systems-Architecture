@@ -1,0 +1,15 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../7_Handshake.srcs/sources_1/new/adder.vhd" \
+"../../../../7_Handshake.srcs/sources_1/imports/components/counter.vhd" \
+"../../../../7_Handshake.srcs/sources_1/imports/components/memory.vhd" \
+"../../../../7_Handshake.srcs/sources_1/new/mux_2_1.vhd" \
+"../../../../7_Handshake.srcs/sources_1/imports/components/register_pp.vhd" \
+"../../../../7_Handshake.srcs/sources_1/imports/components/rom.vhd" \
+"../../../../7_Handshake.srcs/sources_1/new/nodoB_datapath.vhd" \
+"../../../../7_Handshake.srcs/sources_1/new/nodoB_CU.vhd" \
+"../../../../7_Handshake.srcs/sources_1/new/nodoB.vhd" \
+"../../../../7_Handshake.srcs/sim_2/imports/new/nodoB_tb.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,1 @@
+-wto "f44d30cafd8e47cd890602a51badc244" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "switch_multistadio_tb_behav" "xil_defaultlib.switch_multistadio_tb" -log "elaborate.log" 

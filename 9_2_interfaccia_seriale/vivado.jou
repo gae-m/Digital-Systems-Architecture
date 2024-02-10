@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Feb  4 15:52:38 2024
+# Process ID: 22368
+# Current directory: C:/Users/Donato/Desktop/vivado_projects/9_2_interfaccia_seriale
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent23376 C:\Users\Donato\Desktop\vivado_projects\9_2_interfaccia_seriale\9_2_interfaccia_seriale.xpr
+# Log file: C:/Users/Donato/Desktop/vivado_projects/9_2_interfaccia_seriale/vivado.log
+# Journal file: C:/Users/Donato/Desktop/vivado_projects/9_2_interfaccia_seriale\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Donato/Desktop/vivado_projects/9_2_interfaccia_seriale/9_2_interfaccia_seriale.xpr
+update_compile_order -fileset sources_1

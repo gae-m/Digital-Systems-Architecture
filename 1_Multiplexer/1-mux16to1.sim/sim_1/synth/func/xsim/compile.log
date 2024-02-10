@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Donato/Desktop/vivado_projects/1-mux16to1/1-mux16to1.sim/sim_1/synth/func/xsim/rete_on_board_tb_func_synth.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'rete_on_board'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Donato/Desktop/vivado_projects/1-mux16to1/1-mux16to1.srcs/sim_1/new/rete_on_board_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'rete_on_board_tb'

@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../12_Esercizio_libero.srcs/sources_1/imports/src/button_debouncer.vhd" \
+"../../../../12_Esercizio_libero.srcs/sim_2/new/btn_debouncer_tb.vhd" \
+
+# Do not sort compile order
+nosort

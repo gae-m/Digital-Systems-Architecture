@@ -1,0 +1,7 @@
+Running: xsim.dir/rete_inter_tb_behav/xsimk.exe -simmode gui -wdb rete_inter_tb_behav.wdb -simrunnum 0 -socket 50944
+Design successfully loaded
+Design Loading Memory Usage: 9128 KB (Peak: 9128 KB)
+Design Loading CPU Usage: 46 ms
+Simulation completed
+Simulation Memory Usage: 9896 KB (Peak: 9896 KB)
+Simulation CPU Usage: 46 ms

@@ -1,0 +1,42 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2019.1/bin/unwrapped/win64.o/xelab.exe -wto 1ce801a7496c4351bb68a4cd71fa9d68 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot system_tb_behav xil_defaultlib.system_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling package xil_defaultlib.nodob_util
+Compiling architecture behavioral of entity xil_defaultlib.counter [counter_default]
+Compiling architecture dataflowa of entity xil_defaultlib.rom [\rom(nbit_addr=3,width=8)_uniq_0...]
+Compiling architecture structural of entity xil_defaultlib.nodoA_datapath [nodoa_datapath_default]
+Compiling architecture behavioral of entity xil_defaultlib.nodoA_CU [nodoa_cu_default]
+Compiling architecture structural of entity xil_defaultlib.nodoA [nodoa_default]
+Compiling architecture dataflowb of entity xil_defaultlib.rom [\rom(nbit_addr=3,width=8)_uniq_1...]
+Compiling architecture behavioral of entity xil_defaultlib.UARTcomponent [\UARTcomponent(baud_rate_g=32)\]
+Compiling architecture structural of entity xil_defaultlib.nodoB_ou [\nodoB_ou(baud_rate_g=32,k=3)\]
+Compiling architecture behavioral of entity xil_defaultlib.nodoB_cu [nodob_cu_default]
+Compiling architecture structural of entity xil_defaultlib.nodoB [\nodoB(baud_rate_g=32,k=3)\]
+Compiling architecture behavioral of entity xil_defaultlib.nodoC_cu [nodoc_cu_default]
+Compiling architecture behavioral of entity xil_defaultlib.register_pp [\register_pp(dim=8)\]
+Compiling architecture behavioral of entity xil_defaultlib.UARTcomponent [\UARTcomponent(baud_divide_g=2)\]
+Compiling architecture dataflow of entity xil_defaultlib.bit_comparator [bit_comparator_default]
+Compiling architecture structural of entity xil_defaultlib.byte_comparator [byte_comparator_default]
+Compiling architecture behavioral of entity xil_defaultlib.encoder [encoder_default]
+Compiling architecture dataflow of entity xil_defaultlib.mux4to1 [\mux4to1(n=8)\]
+Compiling architecture dataflow of entity xil_defaultlib.full_adder [full_adder_default]
+Compiling architecture structural of entity xil_defaultlib.ripple_carry_adder [\ripple_carry_adder(nbit=8)\]
+Compiling architecture behavioral of entity xil_defaultlib.memory [\memory(width=8)\]
+Compiling architecture dataflow of entity xil_defaultlib.mux2to1 [mux2to1_default]
+Compiling architecture structural of entity xil_defaultlib.nodoC_ou [\nodoC_ou(baud_divide_g=2,k=3)\]
+Compiling architecture structural of entity xil_defaultlib.nodoC [\nodoC(baud_divide_g=2,k=3)\]
+Compiling architecture structural of entity xil_defaultlib.system [\system(baud_divide_g=2)\]
+Compiling architecture behavioral of entity xil_defaultlib.system_tb
+Built simulation snapshot system_tb_behav

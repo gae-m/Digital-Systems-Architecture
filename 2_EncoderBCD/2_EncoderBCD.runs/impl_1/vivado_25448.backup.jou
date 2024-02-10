@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat Sep 30 19:16:19 2023
+# Process ID: 25448
+# Current directory: C:/Users/Donato/Desktop/vivado_projects/2_EncoderBCD/2_EncoderBCD.runs/impl_1
+# Command line: vivado.exe -log encoderBCD_on_board.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source encoderBCD_on_board.tcl -notrace
+# Log file: C:/Users/Donato/Desktop/vivado_projects/2_EncoderBCD/2_EncoderBCD.runs/impl_1/encoderBCD_on_board.vdi
+# Journal file: C:/Users/Donato/Desktop/vivado_projects/2_EncoderBCD/2_EncoderBCD.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source encoderBCD_on_board.tcl -notrace

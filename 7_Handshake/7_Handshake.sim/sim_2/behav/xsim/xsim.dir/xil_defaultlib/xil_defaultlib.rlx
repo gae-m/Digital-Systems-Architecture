@@ -1,0 +1,15 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sim_2/imports/new/nodoB_CU_tb.vhd,1705415875,vhdl,,,,nodob_cu_tb,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sim_2/imports/new/nodoB_tb.vhd,1705402532,vhdl,,,,nodob_tb,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/imports/components/counter.vhd,1705311359,vhdl,C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/nodoB_datapath.vhd,,,counter,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/imports/components/memory.vhd,1705417739,vhdl,C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/nodoB_datapath.vhd,,,memory,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/imports/components/register_pp.vhd,1696543016,vhdl,C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/nodoB_datapath.vhd,,,register_pp,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/imports/components/rom.vhd,1705400528,vhdl,C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/nodoB_datapath.vhd,,,rom,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/adder.vhd,1696784700,vhdl,C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/nodoB_datapath.vhd,,,adder,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/mux_2_1.vhd,1696783354,vhdl,C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/nodoB_datapath.vhd,,,mux_2_1,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/nodoB.vhd,1705319783,vhdl,C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sim_2/imports/new/nodoB_tb.vhd,,,nodob,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/nodoB_CU.vhd,1707041316,vhdl,C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/nodoB.vhd,,,nodob_cu,,,,,,,,
+C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/nodoB_datapath.vhd,1705415375,vhdl,C:/Users/Donato/Desktop/vivado_projects/7_Handshake/7_Handshake.srcs/sources_1/new/nodoB.vhd,,,nodob_datapath,,,,,,,,

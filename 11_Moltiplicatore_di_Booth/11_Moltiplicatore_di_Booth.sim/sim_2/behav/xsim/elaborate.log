@@ -1,0 +1,30 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2019.1/bin/unwrapped/win64.o/xelab.exe -wto 8a3c468bd63543ed8ed0e1db113622b3 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot booth_mult_tb_behav xil_defaultlib.booth_mult_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package ieee.math_real
+Compiling package xil_defaultlib.cu_util
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling architecture behavioral of entity xil_defaultlib.ff_D [ff_d_default]
+Compiling architecture dataflow of entity xil_defaultlib.mux2to1 [mux2to1_default]
+Compiling architecture structural of entity xil_defaultlib.right_shifter [\right_shifter(width=8)\]
+Compiling architecture structural of entity xil_defaultlib.right_shifter [\right_shifter(width=9)\]
+Compiling architecture behavioral of entity xil_defaultlib.register_pp [\register_pp(dim=8)\]
+Compiling architecture dataflow of entity xil_defaultlib.full_adder [full_adder_default]
+Compiling architecture structural of entity xil_defaultlib.ripple_carry_adder [\ripple_carry_adder(nbit=8)\]
+Compiling architecture structural of entity xil_defaultlib.adder_subtractor [\adder_subtractor(nbit=8)\]
+Compiling architecture behavioral of entity xil_defaultlib.counter [counter_default]
+Compiling architecture behavioral of entity xil_defaultlib.control_unit [control_unit_default]
+Compiling architecture structural of entity xil_defaultlib.Booth_multiplier [booth_multiplier_default]
+Compiling architecture behavioral of entity xil_defaultlib.booth_mult_tb
+Built simulation snapshot booth_mult_tb_behav

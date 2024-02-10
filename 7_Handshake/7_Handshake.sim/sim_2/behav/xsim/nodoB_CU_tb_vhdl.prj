@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../7_Handshake.srcs/sources_1/new/nodoB_CU.vhd" \
+"../../../../7_Handshake.srcs/sim_2/imports/new/nodoB_CU_tb.vhd" \
+
+# Do not sort compile order
+nosort

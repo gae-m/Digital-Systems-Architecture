@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="system_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="nodob_util" />
+            <top_module name="system_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="285371000fs"></ZoomStartTime>
+      <ZoomEndTime time="285850001fs"></ZoomEndTime>
+      <Cursor1Time time="285950000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="89"></NameColumnWidth>
+      <ValueColumnWidth column_width="64"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="13" />
+   <wvobject fp_name="/system_tb/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/system_tb/addr" type="array">
+      <obj_property name="ElementShortName">addr[2:0]</obj_property>
+      <obj_property name="ObjectShortName">addr[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/system_tb/send_A" type="logic">
+      <obj_property name="ElementShortName">send_A</obj_property>
+      <obj_property name="ObjectShortName">send_A</obj_property>
+   </wvobject>
+   <wvobject fp_name="/system_tb/send_B" type="logic">
+      <obj_property name="ElementShortName">send_B</obj_property>
+      <obj_property name="ObjectShortName">send_B</obj_property>
+   </wvobject>
+   <wvobject fp_name="/system_tb/uut/nodoC/ready" type="logic">
+      <obj_property name="ElementShortName">ready</obj_property>
+      <obj_property name="ObjectShortName">ready</obj_property>
+   </wvobject>
+   <wvobject fp_name="/system_tb/uut/nodoC/ack" type="logic">
+      <obj_property name="ElementShortName">ack</obj_property>
+      <obj_property name="ObjectShortName">ack</obj_property>
+   </wvobject>
+   <wvobject fp_name="/system_tb/uut/nodoC/rda" type="logic">
+      <obj_property name="ElementShortName">rda</obj_property>
+      <obj_property name="ObjectShortName">rda</obj_property>
+   </wvobject>
+   <wvobject fp_name="/system_tb/uut/nodoC/RxD" type="logic">
+      <obj_property name="ElementShortName">RxD</obj_property>
+      <obj_property name="ObjectShortName">RxD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/system_tb/data_out" type="array">
+      <obj_property name="ElementShortName">data_out[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data_out[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/system_tb/uut/nodoC/ou/mux_to_mem" type="array">
+      <obj_property name="ElementShortName">mux_to_mem[2:0]</obj_property>
+      <obj_property name="ObjectShortName">mux_to_mem[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/system_tb/uut/nodoC/ou/ctrl_mode" type="logic">
+      <obj_property name="ElementShortName">ctrl_mode</obj_property>
+      <obj_property name="ObjectShortName">ctrl_mode</obj_property>
+   </wvobject>
+   <wvobject fp_name="/system_tb/clk_A" type="logic">
+      <obj_property name="ElementShortName">clk_A</obj_property>
+      <obj_property name="ObjectShortName">clk_A</obj_property>
+   </wvobject>
+   <wvobject fp_name="/system_tb/clk_B" type="logic">
+      <obj_property name="ElementShortName">clk_B</obj_property>
+      <obj_property name="ObjectShortName">clk_B</obj_property>
+   </wvobject>
+</wave_config>
